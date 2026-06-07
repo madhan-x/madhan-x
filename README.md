@@ -1,52 +1,120 @@
-# Hi, I'm Madhan
+# 👋 Hi, I'm **Madhan**
 
-B.Tech Artificial Intelligence & Data Science Student
+**B.Tech Student | Artificial Intelligence & Data Science**
 
-## About Me
+Passionate about **Data Structures & Algorithms**, **Software Engineering**, and **Artificial Intelligence**. I enjoy solving problems, building projects, and documenting my learning journey through consistent practice.
 
-- Learning Data Structures & Algorithms
-- Building projects with C++, Python and Git
-- Consistently documenting my learning journey
-- Interested in Software Engineering and AI
+---
 
-## Current Focus
+## 🚀 About Me
 
+- 📚 Learning **Data Structures & Algorithms**
+- 💻 Building projects using **C++**, **Python**, and **Git**
+- 🧠 Exploring problem-solving patterns and optimization techniques
+- 🤖 Interested in **Artificial Intelligence** and **Software Development**
+- 📈 Consistently documenting my learning through **GitHub** and **LinkedIn**
+
+---
+
+## 🎯 Current Focus
+
+- 🌳 Binary Trees
+- 🌲 Binary Search Trees
+- 📦 STL (Standard Template Library)
+- 🧩 Problem Solving
+- ⚡ Algorithm Optimization
+
+---
+
+## 🛠️ Technologies & Tools
+
+### Languages
+
+- **C**
+- **C++**
+- **Python**
+
+### Tools
+
+- **Git**
+- **GitHub**
+
+### Core Concepts
+
+- **Data Structures**
+- **Algorithms**
+- **Recursion**
+- **STL**
+- **Problem Solving**
+
+---
+
+## 📌 Featured Projects
+
+### 🔹 DSA Practice
+
+A structured repository containing implementations of core **Data Structures and Algorithms** in **C** and **C++**.
+
+#### Topics Covered
+
+- Arrays
+- Linked Lists
+- Stack
+- Queue
 - Trees
-- Binary Search Trees
+- Recursion
 - STL
-- Problem Solving
-- LeetCode
 
-## Featured Projects
-
-### DSA Practice
-Daily implementations of Data Structures and Algorithms in C and C++.
-
-Repository:
+**Repository:**  
 https://github.com/madhan-x/DSA-Practice
 
-### Sora V1 AI Assistant
-Python AI assistant built using:
-- KivyMD
-- OpenRouter API
+---
+
+### 🔹 Sora V1 AI Assistant
+
+A Python-based AI assistant built using modern AI APIs and UI frameworks.
+
+#### Features
+
+- KivyMD Interface
+- OpenRouter API Integration
 - Voice Support
 - Translation Features
 
-Repository:
+**Repository:**  
 https://github.com/madhan-x/sora-v1-ai-assistant
 
-## Technologies
+---
 
-- C
-- C++
-- Python
-- Git
-- GitHub
-- STL
+## 📚 Currently Learning
 
-## Goals
+- Binary Search Trees
+- Tree Traversals & Tree Problems
+- STL Optimization
+- Advanced Problem Solving
 
-- Strengthen DSA foundations
-- Improve problem-solving skills
-- Build impactful software projects
+---
+
+## 🎯 Goals
+
+- Build strong foundations in DSA
+- Improve algorithmic thinking
+- Develop impactful software projects
+- Strengthen software engineering fundamentals
 - Prepare for internships and software engineering roles
+
+---
+
+## 📊 GitHub Journey
+
+- Consistent daily DSA practice
+- Building projects alongside problem solving
+- Maintaining structured repositories
+- Documenting progress publicly
+
+---
+
+## 📫 Connect With Me
+
+- **GitHub:** https://github.com/madhan-x
+- **LinkedIn:** Add your LinkedIn profile link here

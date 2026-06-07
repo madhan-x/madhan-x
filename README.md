@@ -117,4 +117,4 @@ https://github.com/madhan-x/sora-v1-ai-assistant
 ## 📫 Connect With Me
 
 - **GitHub:** https://github.com/madhan-x
-- **LinkedIn:** Add your LinkedIn profile link here
+- **LinkedIn:** https://www.linkedin.com/in/madhan-thalloju-7a79993ab?utm_source=share_via&utm_content=profile&utm_medium=member_android

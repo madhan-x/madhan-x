@@ -116,5 +116,8 @@ https://github.com/madhan-x/sora-v1-ai-assistant
 
 ## 📫 Connect With Me
 
+- **Instagram:** https://www.instagram.com/sadontheway?igsh=Y3Y5c3Q1MGIxajBy
+
 - **GitHub:** https://github.com/madhan-x
+
 - **LinkedIn:** https://www.linkedin.com/in/madhan-thalloju-7a79993ab?utm_source=share_via&utm_content=profile&utm_medium=member_android

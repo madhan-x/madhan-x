@@ -51,7 +51,7 @@ Passionate about **Data Structures & Algorithms**, **Software Engineering**, and
 
 ## 📌 Featured Projects
 
-### 🔹 DSA Practice
+### 🔹 Data Structures & Algorithms Practice in C++
 
 A structured repository containing implementations of core **Data Structures and Algorithms** in **C** and **C++**.
 

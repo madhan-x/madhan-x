@@ -66,7 +66,7 @@ A structured repository containing implementations of core **Data Structures and
 - STL
 
 **Repository:**  
-https://github.com/madhan-x/DSA-Practice
+https://github.com/madhan-x/algorithms-and-data-structures.git
 
 ---
 

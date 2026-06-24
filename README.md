@@ -12,16 +12,16 @@ Passionate about **Data Structures & Algorithms**, **Software Engineering**, and
 - 💻 Building projects using **C++**, **Python**, and **Git**
 - 🧠 Exploring problem-solving patterns and optimization techniques
 - 🤖 Interested in **Artificial Intelligence** and **Software Development**
-- 📈 Consistently documenting my learning through **GitHub** and **LinkedIn**
+- 📈 Consistently documenting my learning through **GitHub**, **LeetCode**, and **LinkedIn**
 
 ---
 
 ## 🎯 Current Focus
 
-- 🌳 Binary Trees
+- 💻 LeetCode Problem Solving
 - 🌲 Binary Search Trees
 - 📦 STL (Standard Template Library)
-- 🧩 Problem Solving
+- 🧩 DSA Patterns
 - ⚡ Algorithm Optimization
 
 ---
@@ -38,6 +38,7 @@ Passionate about **Data Structures & Algorithms**, **Software Engineering**, and
 
 - **Git**
 - **GitHub**
+- **LeetCode**
 
 ### Core Concepts
 
@@ -51,9 +52,9 @@ Passionate about **Data Structures & Algorithms**, **Software Engineering**, and
 
 ## 📌 Featured Projects
 
-### 🔹 Data Structures & Algorithms Practice in C++
+### 🔹 DSA Practice
 
-A structured repository containing implementations of core **Data Structures and Algorithms** in **C** and **C++**.
+A structured repository containing implementations of Data Structures, Algorithms, and LeetCode solutions using **C** and **C++**.
 
 #### Topics Covered
 
@@ -62,11 +63,13 @@ A structured repository containing implementations of core **Data Structures and
 - Stack
 - Queue
 - Trees
+- Binary Search Trees
 - Recursion
 - STL
+- LeetCode
 
 **Repository:**  
-https://github.com/madhan-x/algorithms-and-data-structures.git
+https://github.com/madhan-x/DSA-Practice
 
 ---
 
@@ -88,10 +91,11 @@ https://github.com/madhan-x/sora-v1-ai-assistant
 
 ## 📚 Currently Learning
 
+- LeetCode Problem Solving
 - Binary Search Trees
-- Tree Traversals & Tree Problems
 - STL Optimization
 - Advanced Problem Solving
+- Interview-Oriented DSA Patterns
 
 ---
 
@@ -107,17 +111,16 @@ https://github.com/madhan-x/sora-v1-ai-assistant
 
 ## 📊 GitHub Journey
 
-- Consistent daily DSA practice
-- Building projects alongside problem solving
-- Maintaining structured repositories
-- Documenting progress publicly
+- 90+ Days of Consistent DSA Practice
+- Solving LeetCode Problems
+- Building Projects Alongside DSA
+- Maintaining Structured Repositories
+- Documenting Progress Publicly
 
 ---
 
 ## 📫 Connect With Me
 
-- **Instagram:** https://www.instagram.com/sadontheway?igsh=Y3Y5c3Q1MGIxajBy
-
 - **GitHub:** https://github.com/madhan-x
-
-- **LinkedIn:** https://www.linkedin.com/in/madhan-thalloju-7a79993ab?utm_source=share_via&utm_content=profile&utm_medium=member_android
+- **LinkedIn:** https://www.linkedin.com/in/madhan-thalloju-7a79993ab
+- **Instagram:** https://www.instagram.com/sadontheway

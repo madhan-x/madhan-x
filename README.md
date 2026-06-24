@@ -121,6 +121,7 @@ https://github.com/madhan-x/sora-v1-ai-assistant
 
 ## 📫 Connect With Me
 
+- **LeetCode:** https://leetcode.com/u/madhan-x
 - **GitHub:** https://github.com/madhan-x
 - **LinkedIn:** https://www.linkedin.com/in/madhan-thalloju-7a79993ab
 - **Instagram:** https://www.instagram.com/sadontheway

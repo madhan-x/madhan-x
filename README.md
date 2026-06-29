@@ -3,7 +3,7 @@
 **B.Tech — Artificial Intelligence & Data Science** · Building with C++, Python, and curiosity about how things work.
 
 I'm a Year 1 → Year 2 AI & DS student focused on three things in parallel:
-1. **Strong foundations** — DSA in C/C++ (113+ solutions committed, ~104 days of continuous practice)
+1. **Strong foundations** — DSA in C/C++ (113+ solutions committed, consistent daily practice since March 2026)
 2. **Real AI applications** — building working tools, not toy demos
 3. **Public, consistent practice** — what I learn ships to GitHub
 
@@ -55,7 +55,3 @@ From-first-principles implementations across arrays, linked lists, trees, stacks
 - **GitHub** — [@madhan-x](https://github.com/madhan-x)
 - **LeetCode** — [madhan-x](https://leetcode.com/u/madhan-x)
 - **LinkedIn** — [Madhan Thalloju](https://www.linkedin.com/in/madhan-thalloju-7a79903ab)
-
----
-
-<sub>Profile last substantively updated · 29 June 2026 · DSA streak: ~104 days</sub>

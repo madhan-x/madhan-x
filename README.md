@@ -1,57 +1,74 @@
-# Hi, I'm Madhan
+# Hi, I'm Madhan 👋
 
-**B.Tech — Artificial Intelligence & Data Science** · Building with C++, Python, and curiosity about how things work.
-
-I'm a Year 1 → Year 2 AI & DS student focused on three things in parallel:
-1. **Strong foundations** — DSA in C/C++ (113+ solutions committed, consistent daily practice since March 2026)
-2. **Real AI applications** — building working tools, not toy demos
-3. **Public, consistent practice** — what I learn ships to GitHub
+**B.Tech — Artificial Intelligence & Data Science · Year 2** · I build with C, C++, and Python — focused on strong fundamentals, consistent practice, and shipping in public.
 
 ---
 
-## What I'm working on
+## 🧭 About me
 
-- **DSA depth** — currently expanding Graphs and Dynamic Programming in [`algorithms-and-data-structures`](https://github.com/madhan-x/algorithms-and-data-structures) (C / C++, 100+ solutions, CI-enforced build)
-- **Applied AI** — shipping [`Sora V1`](https://github.com/madhan-x/sora-v1-ai-assistant), a Python AI assistant with LLM integration, voice I/O, and multilingual translation
-- **LeetCode volume** — pushing into Medium problems systematically
+I'm a Year 2 AI & Data Science student who believes the best way to learn is to **build, break, and fix things in public**. My day-to-day looks like:
 
----
-
-## Featured projects
-
-### Sora V1 — Python AI Assistant
-A working AI assistant built end-to-end: natural-language chat, voice responses, real-time translation, Wikipedia-grounded Q&A, and a website launcher — all behind a KivyMD UI.
-
-**Stack:** Python · KivyMD · OpenRouter API · gTTS · pygame · deep-translator · Wikipedia API
-
-[github.com/madhan-x/sora-v1-ai-assistant](https://github.com/madhan-x/sora-v1-ai-assistant)
-
-### algorithms-and-data-structures — DSA in C / C++
-From-first-principles implementations across arrays, linked lists, trees, stacks, queues, and recursion — plus LeetCode problems tagged by technique. Every push runs through a strict-warnings CI build (`-Wall -Wextra -Wpedantic`).
-
-**Numbers (verified against the repo):**
-- 113 solutions · 88 C++ · 25 C
-- 11 LeetCode problems (8 Easy / 1 Medium / 1 Hard)
-- 10 topics covered
-- Topics: Arrays · Linked Lists · Trees · Stack · Queue · Recursion · Two Pointers · Sorting · Basics · Maths
-
-[github.com/madhan-x/algorithms-and-data-structures](https://github.com/madhan-x/algorithms-and-data-structures)
+- Solving one DSA problem a day — in C/C++, with strict-warnings CI on every push (`-Wall -Wextra -Wpedantic`)
+- Working through LeetCode systematically, tagged by topic and technique
+- Studying AI/ML coursework (NLP, statistics, applied ML) and applying it in side projects
+- Documenting everything — every solution ships with problem, approach, complexity, and a worked example
 
 ---
 
-## Tech I work with
+## 🚀 Featured work
+
+### 📘 [algorithms-and-data-structures](https://github.com/madhan-x/algorithms-and-data-structures) — DSA in C / C++
+
+A from-first-principles DSA library: hand-rolled linked lists, BSTs, stacks, queues, recursion, sorting — plus LeetCode problems grouped by topic, difficulty, and technique. Every push runs through a CI build that fails on warnings.
+
+**By the numbers (verified against the repo):**
+| Metric | Count |
+|---|---:|
+| Total solutions | **179** |
+| C++ implementations | **156** |
+| C implementations | **23** |
+| LeetCode problems | **78** (45 Easy · 32 Medium · 1 Hard) |
+| Topic areas | **10** |
+
+`C++` `C` `Python` · `GitHub Actions CI` · `MIT License`
+
+---
+
+## 🛠️ Tech I work with
 
 | Area | Tools |
 |---|---|
 | **Languages** | C · C++ · Python |
 | **DSA / CS** | Data Structures · Algorithms · Recursion · STL · Complexity analysis |
-| **AI / ML** | LLM API integration (OpenRouter) · NLP (translation, TTS) · Wikipedia-grounded Q&A |
-| **Tools** | Git · GitHub · Linux · LeetCode |
+| **AI / DS (coursework)** | Machine Learning · NLP · Statistics · Linear Algebra |
+| **Developer tools** | Git · GitHub Actions · Linux · VS Code · LeetCode |
 
 ---
 
-## Connect
+## 📈 What I'm focusing on right now
+
+- **Graphs** — BFS, DFS, Topological Sort, shortest-path foundations
+- **Dynamic Programming** — building intuition through classic problems
+- **LeetCode Medium volume** — pushing into 100+ total solved
+
+---
+
+## 📊 GitHub stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=madhan-x&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=madhan-x&layout=compact&theme=tokyonight&hide_border=true)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=madhan-x&theme=tokyonight&hide_border=true)
+
+---
+
+## 🤝 Connect
 
 - **GitHub** — [@madhan-x](https://github.com/madhan-x)
 - **LeetCode** — [madhan-x](https://leetcode.com/u/madhan-x)
 - **LinkedIn** — [Madhan Thalloju](https://www.linkedin.com/in/madhan-thalloju-7a79903ab)
+- **Email** — madhanthalloju@gmail.com
+
+---
+
+<sub>⭐ If anything here is useful to you, consider starring a repo — it helps a lot.</sub>

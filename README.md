@@ -3,7 +3,7 @@
 **B.Tech — Artificial Intelligence & Data Science** · Building with C++, Python, and curiosity about how things work.
 
 I'm a Year 1 → Year 2 AI & DS student focused on three things in parallel:
-1. **Strong foundations** — DSA in C/C++ (113+ solutions committed, consistent daily practice since March 2026)
+1. **Strong foundations** — DSA in C/C++ (202+ solutions committed, consistent daily practice since March 2026)
 2. **Real AI applications** — building working tools, not toy demos
 3. **Public, consistent practice** — what I learn ships to GitHub
 
@@ -30,9 +30,9 @@ A working AI assistant built end-to-end: natural-language chat, voice responses,
 From-first-principles implementations across arrays, linked lists, trees, stacks, queues, and recursion — plus LeetCode problems tagged by technique. Every push runs through a strict-warnings CI build (`-Wall -Wextra -Wpedantic`).
 
 **Numbers (verified against the repo):**
-- 113 solutions · 88 C++ · 25 C
-- 11 LeetCode problems (8 Easy / 1 Medium / 1 Hard)
-- 10 topics covered
+- 202 solutions · 179 C++ · 23 C
+- 100 LeetCode problems (58 Easy / 40 Medium / 2 Hard)
+- 11 topics covered
 - Topics: Arrays · Linked Lists · Trees · Stack · Queue · Recursion · Two Pointers · Sorting · Basics · Maths
 
 [github.com/madhan-x/algorithms-and-data-structures](https://github.com/madhan-x/algorithms-and-data-structures)

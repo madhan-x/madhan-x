@@ -58,7 +58,6 @@ A from-first-principles DSA library: hand-rolled linked lists, BSTs, stacks, que
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=madhan-x&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=madhan-x&layout=compact&theme=tokyonight&hide_border=true)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=madhan-x&theme=tokyonight&hide_border=true)
 
 ---
 

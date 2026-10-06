@@ -24,10 +24,10 @@ A from-first-principles DSA library: hand-rolled linked lists, BSTs, stacks, que
 **By the numbers (verified against the repo):**
 | Metric | Count |
 |---|---:|
-| Total solutions | **215** |
-| C++ implementations | **192** |
+| Total solutions | **222** |
+| C++ implementations | **199** |
 | C implementations | **23** |
-| LeetCode problems | **114** |
+| LeetCode problems | **121** |
 | Topic areas | **11** |
 
 `C++` `C` `Python` · `GitHub Actions CI` · `MIT License`
